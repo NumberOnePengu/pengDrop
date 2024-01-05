@@ -59,7 +59,8 @@ The software is not written by a professional developer. I have accounted for mo
 
 #### What's the best way to drop?
 
-Any way works, but 
+It is your call. This is simply a way to get all the right addresses to drop to. Previous drops have done "claim-within-date" and non-claimers' tokens have distributed to claimers.
+
 ## Acknowledgements
 Thank you to tangentTen for being a second set of eyes looking through the code before publishing.
 ## License
