@@ -3,6 +3,8 @@
 
 #### A tool for up-and-coming token releases or existing token teams to most fairly and efficiently tap into the worldwide, distributed community of Pudgy Penguins by generously offering token drops to holders.
 
+#### This tool automatically scans the blockchain and creates a real-time snapshot in CSV format of all Pudgy Penguins holders with the amount of tokens they should get according to your input. Contract addresses of popular marketplaces are filtered automatically so that only legitimate Pudgy Penguins holders are included.
+
 Pudgy Penguins are a very active crypto native community, naturally inclined to support up and coming projects. Pudgy Penguins are also one of the most diverse communities of digital identity, including figures as holders in the general direction of:
 
 - Crypto twitter OGs like GCR (rumored to be republican candidate Vivek Ramaswamy), Cobie, Jebus911, Sisyphus, LedgerStatus, Icebergy, vxC0zy, KeyboardMonkey, etc. 
@@ -42,7 +44,7 @@ Then run the file with the two required arguments, `mode` of distribution, and `
                       ^ mode ^ ^ amount ^
 
 After the program runs, the output file will be `nft_owners_filtered.csv` in the format `Address, Amount, Tokens`. 
-
+<img src="https://i.imgur.com/nsreODM.png">
 (Amount being number of penguins, tokens being the amount of tokens to be dropped). 
 
 ## FAQ
