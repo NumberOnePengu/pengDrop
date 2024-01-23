@@ -12,7 +12,7 @@ Pudgy Penguins are a very active crypto native community, naturally inclined to 
 - Athletes and entertainers like Stephen Curry, Tory Lanez, etc.
 - Successful 7-8 figure poker players such as Fedor Holz, Linus Loeliger, Mario Mosböck, etc.
 - DeFi founders and OGs like Bobby Ong from CoinGecko, Primo from LayerZero (and their whole team), Alex Svanevik from Nansen (and much of their team), Yishay and Barry from Dymension, etc.
-- NFT OGs like punk9059, NFTX, Unstoppable Domains, OpenSea, Blur, etc.
+- NFT OGs like NFTX, Unstoppable Domains, OpenSea, Blur, etc.
 - Exchange people like the Socials from Binance, Listings from WOO, Engineering from Coinbase, etc.
 - Fund owners such as Big Brain, Spencer Ventures, Kronos, LayerZero, etc.
 - Innumerable X spaces hosts. 
