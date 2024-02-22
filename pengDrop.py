@@ -12,6 +12,8 @@ import time
 
 # List of Ethereum RPC URLs
 rpc_urls_og = [
+    'https://eth1.lava.build/lava-referer-95d1e9f1-a185-450e-b715-f321f81d014a/',
+    'https://mainnet.infura.io/v3/deac1eb5947242d3bd3136a0a6d185f4',
     'https://1rpc.io/eth',
     'https://api.securerpc.com/v1',
     'https://api.zan.top/node/v1/eth/mainnet/public',
@@ -70,7 +72,7 @@ def getBestRPCLatencyList(rpc_urls):
         try:
             # Use requests library to check the connection with a timeout
             response = requests.get(rpc_url, timeout=0.5)
-            if response.status_code == 200:
+            if response.status_code == 200 or response.status_code == 405:
                 w3 = Web3(Web3.HTTPProvider(rpc_url))
                 if w3.isConnected():
                     latency = measure_latency(w3)
